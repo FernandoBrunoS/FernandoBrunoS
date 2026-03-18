@@ -23,6 +23,17 @@ I am a **Chemist** and **Applied Mathematician** from UNAM, dedicated to bridgin
 
 My goal is to use the power of algorithms and mathematical rigor to drive innovation, sustainability, and operational excellence in the laboratory and beyond.
 
+<!--
+
+## 🎖️ Certifications & Learning Path
+<p align="left">
+  <a href="https://aws.amazon.com/training/digital/cloud-practitioner/"><img src="https://img.shields.io/badge/AWS-Cloud%20Operations-orange?style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Data%20Science-Expert-blue?style=for-the-badge&logo=python&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/UNAM-Applied%20Math-gold?style=for-the-badge&logo=unicef&logoColor=white" /></a>
+</p>
+
+ -->
+
 ## 🛠️ Tech Stack & Tools
 
 | Category | Tools |
@@ -31,6 +42,60 @@ My goal is to use the power of algorithms and mathematical rigor to drive innova
 | **Data & AI** | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) |
 | **Cloud & Ops** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
 
+
+
+## 🚀 Featured Projects & Computational Notebooks
+
+A selection of my work at the intersection of **Chemical Science**, **Applied Mathematics**, and **Data Science**.
+
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚛️ Quantum Chemistry & R&D</h3>
+      <p align="justify">
+        <b>Computational Modeling of CO:</b> Ab initio calculations using <code>PySCF</code>. Analysis of molecular orbitals and electronic structure for environmental R&D.
+      </p>
+      <a href="https://github.com/FernandoBrunoS/Quimica/blob/main/pfs_pyscf_CO.ipynb">
+        <img src="https://img.shields.io/badge/PySCF-2AA1E3?style=flat-square" />
+        <img src="https://img.shields.io/badge/Quantum_Physics-00599C?style=flat-square" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💊 Cheminformatics (Data Science)</h3>
+      <p align="justify">
+        <b>Molecular Data Pipeline:</b> Processing chemical structures with <code>RDKit</code>. Calculation of molecular descriptors and chemical space exploration for drug discovery.
+      </p>
+      <a href="https://github.com/FernandoBrunoS/Quimica/blob/main/rdkit_ejercicio.ipynb">
+        <img src="https://img.shields.io/badge/RDKit-FF6F00?style=flat-square" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎲 Mathematical Simulation</h3>
+      <p align="justify">
+        <b>Stochastic Modeling:</b> Implementation of Monte Carlo methods and <code>Random Walk</code> simulations for physical systems and statistical analysis.
+      </p>
+      <a href="https://github.com/FernandoBrunoS/Quimica/blob/main/random_walk.ipynb">
+        <img src="https://img.shields.io/badge/Mathematics-150458?style=flat-square" />
+        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📈 Business Data Analytics</h3>
+      <p align="justify">
+        <b>Financial Data Science:</b> Exploratory Data Analysis (EDA) of the <code>Fortune 1000</code> companies. Insights on market trends and corporate performance.
+      </p>
+      <a href="https://github.com/TU_USUARIO/TU_REPO/blob/main/1000_empresas_con_mayor_fortuna_en_Estados_Unidos.ipynb">
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square" />
+        <img src="https://img.shields.io/badge/Data_Viz-27AE60?style=flat-square" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
 
 ## 📈 My GitHub Stats
 <table align="center">
