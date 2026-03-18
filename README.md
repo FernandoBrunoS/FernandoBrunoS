@@ -35,8 +35,12 @@ My goal is to use the power of algorithms and mathematical rigor to drive innova
 ## 📈 My GitHub Stats
 <table align="center">
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=FernandoBrunoS&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoBrunoS&theme=gotham&hide=html&hide_border=true&card_width=330" /></td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=FernandoBrunoS&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true&cache_seconds=1800" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoBrunoS&theme=gotham&hide_border=true&card_width=330&layout=compact&cache_seconds=1800" />
+    </td>
   </tr>
 </table>
 
