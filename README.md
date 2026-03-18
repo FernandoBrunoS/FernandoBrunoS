@@ -87,7 +87,7 @@ A selection of my work at the intersection of **Chemical Science**, **Applied Ma
       <p align="justify">
         <b>Financial Data Science:</b> Exploratory Data Analysis (EDA) of the <code>Fortune 1000</code> companies. Insights on market trends and corporate performance.
       </p>
-      <a href="https://github.com/TU_USUARIO/TU_REPO/blob/main/1000_empresas_con_mayor_fortuna_en_Estados_Unidos.ipynb">
+      <a href="https://github.com/FernandoBrunoS/Data/blob/main/1000_empresas_con_mayor_fortuna_en_Estados_Unidos.ipynb">
         <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square" />
         <img src="https://img.shields.io/badge/Data_Viz-27AE60?style=flat-square" />
       </a>
