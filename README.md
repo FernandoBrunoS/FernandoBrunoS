@@ -98,16 +98,15 @@ A selection of my work at the intersection of **Chemical Science**, **Applied Ma
 ---
 
 ## 📈 My GitHub Stats
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=FernandoBrunoS&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true&cache_seconds=1800" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoBrunoS&theme=gotham&hide_border=true&card_width=330&layout=compact&cache_seconds=1800" />
-    </td>
-  </tr>
-</table>
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=FernandoBrunoS&show_icons=true&theme=gotham&hide_border=true&count_private=true" width="48.5%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FernandoBrunoS&layout=compact&theme=gotham&hide_border=true&hide=jupyter%20notebook" width="41.5%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FernandoBrunoS&theme=gotham&hide_border=true" width="90%" />
+</p>
 
 ## 📫 Connect with me:
 - **LinkedIn:** [/in/fbrunosanchez](https://www.linkedin.com/in/fbrunosanchez)
